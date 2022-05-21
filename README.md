@@ -6,5 +6,5 @@ Core Java Concepts like :
 - Inheritance
 - Polymorphism (Run-time & Compile-time)
 - Access Modifier
-- Exceptions 
+- Exception Handling
 - Threading & Multithreading
